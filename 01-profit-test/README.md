@@ -69,6 +69,3 @@ Lapse and expense figures are my own illustrative assumptions, not company data.
 ## Files
 - `profit_test_term_assurance.ipynb`: the model
 - `am92.csv`: AM92 death probabilities (age, duration 0, duration 1, ultimate)
-## Files
-- `profit_test_term_assurance.ipynb`: the model
-- `am92.csv`: AM92 death probabilities (age, duration 0, duration 1, ultimate)
