@@ -22,14 +22,24 @@ This is a standard teaching dataset, not company data.
 
 ## Results
 **Development factors (chain ladder):**
-<paste the output of model.ldf_ or a table of factors>
+<       12-24     24-36     36-48     48-60     60-72     72-84     84-96    96-108   108-120  120-132  132-144
+(All)  2.999359  1.623523  1.270888  1.171675  1.113385  1.041935  1.033264  1.016936  1.009217      1.0      1.0>
 
 **Reserve by origin year:**
-| Origin year | Chain ladder | BF | Mack std. error |
+| Origin year | Chain ladder | BF |
 |---|---|---|---|
-| <year> | <value> | <value> | <value> |
+| <1981> | <Nan> | <Nan> |
+| <1982> | <153.953917> | <194.632172> |
+| <1983> | <617.370924> | <546.333266> |
+| <1984> | <1636.142163> | <1214.843524> |
+| <1985> | <2746.736343> | <2023.700714> |
+| <1986> | <3649.103184> | <3988.005163> |
+| <1987> | <5435.302590> | <6526.362337> |
+| <1988> | <10907.192510> | <9677.948877> |
+| <1989> | <10649.984101> | <14146.155136> |
+| <1990> | <16339.442529> | <18923.022826> |
 
-**Total reserve:** chain ladder = <value>, BF = <value>
+**Total reserve:** chain ladder = <52135.228261210155>, BF = <57241.00401440586>
 
 ## Manual check
 I recalculated <number> development factors by hand in Excel (file
