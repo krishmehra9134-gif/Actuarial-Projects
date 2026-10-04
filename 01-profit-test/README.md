@@ -35,12 +35,20 @@ Lapse and expense figures are my own illustrative assumptions, not company data.
 6. Profit margin = NPV / present value of premiums.
 
 ## Results
-**Base case:** NPV = <value>, profit margin = <value>%
+**Base case:** NPV = 7,154, profit margin = 47.2%
 
 **Sensitivities:**
-<paste your scenario table here>
+Scenario	NPV	Margin %
+0	Base	7154	47.25
+1	AM92 at 120%	6320	41.77
+2	AM92 at 80%	7990	52.73
+3	Lapses +50%	5794	46.72
+4	Lapses -50%	8839	47.32
+5	Interest 5%	6943	45.85
+6	Risk discount 12%	6450	46.47
 
-![Profit signature](signature.png)   <!-- optional: save the chart and upload it -->
+
+![Profit signature](profitsignature.png)   
 
 ## Key observations
 - <Which scenario hurts profit most, and why?>
