@@ -45,6 +45,8 @@ No tail factor is applied (tail = 1.0).
 | 1990 | 16,339 | 18,923 | +2,584 |
 | **Total** | **52,135** | **57,241** | **+5,106 (+9.8%)** |
 
+![Reserves by method](reserves.png)
+
 ## Manual check
 I recalculated <number> development factors by hand in Excel (file
 `manual_check.xlsx`) and they match the library output to 4 decimal places.
