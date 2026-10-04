@@ -47,7 +47,7 @@ No tail factor is applied (tail = 1.0).
 
 ## Manual check
 I recalculated <number> development factors by hand in Excel (file
-`manual_check.xlsx`) and they match the library output to <decimal places>.
+`manual_check.xlsx`) and they match the library output to 4 decimal places.
 This confirms I understand how the factors are built, not just how to call
 the function.
 
