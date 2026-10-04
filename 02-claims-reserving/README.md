@@ -52,8 +52,28 @@ This confirms I understand how the factors are built, not just how to call
 the function.
 
 ## Key observations
-- <Where chain ladder and BF differ most, and why. BF is usually steadier for the latest origin years, where little data has emerged.>
-- <Which method you would trust for which origin years, and why.>
+- **Where the methods differ most:** The two methods are close for the older
+  origin years (1982-1985 differ by only a few hundred) but diverge for the
+  recent ones. The largest gaps are in 1989 (BF higher by about 3,500) and
+  1990 (BF higher by about 2,600), and overall BF gives a total reserve about
+  9.8% higher than chain ladder (57,241 vs 52,135). BF is not higher
+  everywhere: it is lower than chain ladder in 1983-1985 and 1988. This is
+  because chain ladder projects each year purely from the claims paid so far,
+  while BF blends that with an a priori expected ultimate. For recent years,
+  where little has emerged, that a priori carries more weight, so the two
+  methods separate most there.
+
+- **Which method I would trust, and when:** For the older years (up to about
+  1985), I would trust chain ladder, because most claims have already emerged
+  and the actual data should dominate. The two methods also agree closely
+  there, so the choice hardly matters. For the latest years (1989-1990), chain
+  ladder rests on very few data points and a large early development factor
+  (12-24 is about 3.0), so a small change in early claims moves the estimate a
+  lot. BF is steadier in principle, but only if the a priori is credible. In
+  this project the a priori is the average chain ladder ultimate across all
+  years, which is a simplification. So I would treat the chain ladder and BF
+  figures for 1989-1990 as a range, not a single answer. With a proper
+  a priori (expected loss ratio times premium) I would lean on BF for those years.
 
 ## Limitations
 - The triangle is cumulative with no tail factor. All claims are assumed to be fully developed by the last development period.
